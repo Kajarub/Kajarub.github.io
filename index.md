@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Moja kotka Lila
 
-![![Lilka](https://user-images.githubusercontent.com/93824511/141500702-c026a532-48fe-44ac-82b5-a5e9040a0d27.jpg)
+![Lilka](https://user-images.githubusercontent.com/93824511/141500702-c026a532-48fe-44ac-82b5-a5e9040a0d27.jpg)
 
 ```markdown
 Syntax highlighted code block
